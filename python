@@ -1,0 +1,8 @@
+a=5
+b=5
+c=a+b
+print("line1 value of c ic",c)
+c=a*b
+print("line2 value of c is",c)
+c=a/b
+print("line3 value of c is",c)
